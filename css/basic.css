@@ -19,6 +19,7 @@ width: 600px;
 background-repeat: no-repeat;
 background-color: red;
 color: gray;
+background-image: url(../css/pics/coffey.jpg);
     
 }
 #menu{
@@ -26,7 +27,8 @@ color: gray;
     height:40px;
     
 }
-}
+
+
 
 #menu ul
 {
