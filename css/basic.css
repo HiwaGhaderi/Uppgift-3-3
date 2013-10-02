@@ -1,8 +1,43 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+
 /*fixa en prototyp av layouten med hjälp av html texten*/
+
 #container{
-    width:600px;
-    height:auto;}
-#topbar{}
-#menu{}
+width:600px;
+height:auto;
+margin:auto;
+border:1px;
+background-repeat:no-repeat;
+background-color:red;
+}
+#topbar{
+font-family:Verdana,Geneva,sans-serif;
+text-align:right;
+height: 215px;
+float: left;
+width: 600px;
+background-repeat: no-repeat;
+background-color: red;
+color: gray;
+    
+}
+#menu{
+    padding:0px;
+    height:40px;
+    
+}
+#content{
+background: gray;
+font-family: Verdana, Geneva, sans-serif;
+color: white;
+text-align: left;
+border-left: 1px;
+border-right: 1px;
+border-bottom: 1px;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+    
+}
 
